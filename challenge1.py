@@ -4,7 +4,7 @@ import requests
 """
 Name: Dario Molina
 8/27/16
-Description: Connect to Code2040 API, receive a string, reverse the string then send the reversed word back through a request to the desired destination.
+Description: Write a program that successfully connects to the registration endpoint of Code2040's API.
 """
 
 #URL where we connect to the API
