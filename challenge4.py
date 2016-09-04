@@ -3,8 +3,8 @@ import requests
 
 """
 Name: Dario Molina
-Name: 9/3/16
-Description: Write a program that connects to Code2040 API. Then retrive a dictionary with keys prefix and array.  Prefix, is a string and array is an array of strings. Your job is to return an array containing only the strings that do not start with that prefix. Once new array is built, POST a dicitonary back to API and check for varification.
+Date: 9/3/16
+Description: Write a program that connects to Code2040's API. Then, retrive a dictionary with keys prefix and array.  Prefix, is a string and array is an array of strings. Your job is to return an array containing only the strings that do not start with that prefix. Once new array is built, POST a dicitonary back to API and check for varification.
 """
 #URl's where we obtain and send information to Code2040's API
 retrieve_info_url = "http://challenge.code2040.org/api/prefix"
