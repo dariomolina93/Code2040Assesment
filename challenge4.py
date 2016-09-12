@@ -1,4 +1,6 @@
+#module that will allow us to use json format for our dictionaries.
 import json
+#module that will allow us to connect to the API.
 import requests
 
 """
